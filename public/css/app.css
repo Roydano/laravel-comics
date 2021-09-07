@@ -62,3 +62,13 @@ header .container, header nav {
 .header-bottom .container li a {
   color: black;
 }
+
+.jumbo {
+  height: 400px;
+  width: 100%;
+  background-color: red;
+}
+
+.comics .card {
+  width: calc((100% / 12) * 2);
+}
