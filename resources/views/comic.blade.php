@@ -8,6 +8,8 @@
         @foreach($series as $serie)
 
         <div class="card">
+            <img src="{{$serie['thumb']}}" alt="{{$serie['title']}}">
+            <h5>{{$serie['series']}}</h5>
            
         </div>
 

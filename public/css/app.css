@@ -69,6 +69,10 @@ header .container, header nav {
   background-color: red;
 }
 
+.comics {
+  display: flex;
+  flex-wrap: wrap;
+}
 .comics .card {
   width: calc((100% / 12) * 2);
 }
