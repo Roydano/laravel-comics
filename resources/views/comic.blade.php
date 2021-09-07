@@ -3,7 +3,7 @@
 
 @section('content')
 
-    <div class="comics">
+    <div class="comics container">
 
         @foreach($series as $serie)
 
