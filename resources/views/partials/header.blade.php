@@ -26,10 +26,10 @@
                         <li><a href="">News</a></li>
                         <li><a href="">Shop</a></li>
                     </ul>
-
-                    <input id="search" type="text" placeholder="Search">
                 </nav>
             </div>
+            
+            <input id="search" type="text" placeholder="Search">
         </div>
     </div>
 </header>
